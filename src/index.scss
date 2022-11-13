@@ -1,0 +1,14 @@
+/*===== BASE =====*/
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
