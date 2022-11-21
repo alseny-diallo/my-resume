@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+$primary-color: #4070f4;
+$secondary-color: #0e2431;
+$color-white: #fff;
+
+$font-semi: 600;
+$body-font: 'Poppins', sans-serif;
+
+$header-height: 3rem;
+$h2-font-size: 0.938rem;
+
+.section-title {
+  position: relative;
+  font-size: $h2-font-size;
+  margin-top: 2rem;
+}
